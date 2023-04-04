@@ -13,3 +13,4 @@ timm==0.4.5  # if you're on newer versions of python / mamba / conda, installing
 tqdm
 transforms3d
 einops
+gdown
